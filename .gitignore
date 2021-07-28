@@ -1,0 +1,3 @@
+nginx/ssl/ssl*
+nginx/nginx.conf
+nexus-data/*
